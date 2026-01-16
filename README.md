@@ -1,11 +1,3 @@
-🤝 Show your support - give a ⭐️ if you liked the content
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left)](https://www.star-history.com/#Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left)
-
-
-
 # AI-Tutorials/Implementations and Notebooks
 
 ### Index 
